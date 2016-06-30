@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/brysonr/gopro3.git"
+    "url": "http://github.com/brysonr/gopro3.git"
   },
   "keywords": [
     "gopro",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/brysonr/gopro3/issues"
   },
-  "homepage": "https://github.com/brysonr/gopro3#readme"
+  "homepage": "https://github.com/brysonr/gopro3#readme",
+  "dependencies": {
+    "yargs": "^4.7.1"
+  }
 }
