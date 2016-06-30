@@ -1,0 +1,24 @@
+{
+  "name": "gopro3",
+  "version": "0.0.1",
+  "description": "Client for controlling GoPro Hero 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brysonr/gopro3.git"
+  },
+  "keywords": [
+    "gopro",
+    "hero",
+    "3"
+  ],
+  "author": "bryson-reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brysonr/gopro3/issues"
+  },
+  "homepage": "https://github.com/brysonr/gopro3#readme"
+}
